@@ -1,0 +1,82 @@
+h1{
+	color:blue;
+	font-size: 50px;
+	padding-top: 10px
+	padding bottom:20px;
+	text-decoration-line: underline;
+
+
+}
+h2{
+	padding-left:70px;
+	color:red;
+	text-decoration: underline;
+}
+/*div{
+	  
+  padding:25px;
+  width: 200px;
+  height: 300px;
+  text-align: justify;
+  margin-left: 20px;
+ */
+}
+#dogs img{
+	padding-top: 5px;
+	padding-bottom:50px;
+	padding-left:50px;
+	padding-right:5px;
+
+
+	
+}   
+.snake{
+ padding:25px;
+  width: 200px;
+  height: 300px;
+  text-align: justify;
+  float: right;
+padding-bottom:100px;
+padding-top:5px;
+
+ 
+}
+.cat{
+	padding: 25px;
+	height: 200px;
+	width: 300px;
+	text-align: justify;
+	margin-left: 20px;
+	float: left;
+
+}
+.dog01{
+	
+	padding-right:500px;
+
+}
+.head{
+	text-align: center;
+}
+.Bird{
+	padding: 25px;
+	height: 200px;
+	width: 200px;
+	text-align: justify;
+	margin-left: 20px;
+	float:left;
+
+}
+.link{
+	padding-top:40px;
+	padding-bottom: 10px;
+    border:1px solid black;
+}
+
+
+
+
+
+
+
+
